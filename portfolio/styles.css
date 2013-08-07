@@ -1,0 +1,6 @@
+figure {display: inline-block;}
+
+img.notActive {
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}
